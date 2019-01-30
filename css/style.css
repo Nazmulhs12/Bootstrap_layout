@@ -1,0 +1,15 @@
+.custom{
+	background-color: green;
+	padding: 10px 0;
+	margin: 10px;
+}
+.bgc{
+	background-color: powderblue;
+	min-height: 50px;
+}
+.c-mb{
+	margin-bottom: 10px;
+}
+.red{
+	background-color: red;
+}
